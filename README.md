@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vast0906
 - 👀 I’m currently working on ShangHai, China
 - 🌱 I’m currently learning ci/cd and devops
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ($id)@gmail.com
 
 <!---
