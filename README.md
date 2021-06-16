@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vast0906
 - 👀 I’m currently working on ShangHai, China
 - 🌱 I’m currently learning ci/cd and devops
-- 📫 How to reach me ($id)@gmail.com
+- 📫 How to reach me ${id}@gmail.com
 
 <!---
 vast0906/vast0906 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
